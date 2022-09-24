@@ -1,0 +1,2 @@
+# DenseNet
+基于MindSpore框架浮现DenseNet训模型练和验证
